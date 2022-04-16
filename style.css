@@ -5,6 +5,7 @@
     background-color: rgb(15, 15, 15); 
     padding: 0;
     font-family: 'Open Sans', sans-serif;
+    background-image: url("background.jpg")
 }
 .header{
     background-color: rgba(62, 32, 13, 0.698);
