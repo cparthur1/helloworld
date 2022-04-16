@@ -1,0 +1,1 @@
+console.log("Vc esta usando a versão mobile")

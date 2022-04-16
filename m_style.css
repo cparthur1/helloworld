@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.body{
+    border: 0; 
+    margin: 0;
+    background-color: rgb(15, 15, 15); 
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    background-color: rgba(62, 32, 13, 0.698);
+    backdrop-filter: blur(20px);
+    width: 100%;
+    height: auto;
+    color: rgb(223, 195, 168);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    position: fixed;
+    position: relative;
+    z-index: 0;
+    top: 0;
+    display: flex;
+}
+.imgbg {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+}
+.icon {
+    height: 100px;
+    left: 0;
+    margin: 15px;
+    margin-top: 14px;
+}
+.block {
+    background-color: rgba(97, 118, 111, 0.336);
+    backdrop-filter: blur(20px);
+    border-radius: 30px;
+    z-index: 0;
+    top: 150px;
+    left: 12.5%;
+    justify-self: center;
+    align-content: center;
+    width: 75%;
+    height: auto;
+    margin: auto;
+    color: rgb(214, 237, 214);
+    font-size: 70px;
+}
+.contenttab2 {
+    background-color: rgba(96, 59, 27, 0.499);
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    color: blanchedalmond;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    align-content: center;
+    font-size: 50px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+.socialicon {
+    height: 150px;
+    width: 150px;
+    margin: 0;
+    margin-right: 10px;
+    border-radius: 12px;
+}
+.socialiconr {
+    height: 150px;
+    width: 150px;
+    margin: 0; 
+    margin-right: 10px;
+    border-radius: 100%;
+}
